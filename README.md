@@ -1,0 +1,2 @@
+# newzone
+frontpage only
